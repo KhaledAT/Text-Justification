@@ -4,5 +4,6 @@ This program justifies any string based on a given number of columns. Consequent
 
 # What I learned 
 
-   • File management/creation/modification.
+   • File management/creation/modification
+   
    • Text management
